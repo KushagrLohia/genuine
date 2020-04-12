@@ -91,7 +91,7 @@ base.geometry("400x400")
 base.resizable(width=FALSE, height=FALSE)
 
 #BACKGROUND IMAGE
-photo=PhotoImage(file=r"C:\Users\hp world\OneDrive\Desktop\p.png")
+photo=PhotoImage(file=r"p.png")
 l2=Label(base,image=photo)#l2=Label(root,bg="red") 
 l2.pack()
 
